@@ -1,0 +1,23 @@
+{
+  "name": "handlebarsproject",
+  "version": "0.0.1",
+  "description": "node js project which uses handlebars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:server": "nodemon -L index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18WDWU02/handlebars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/18WDWU02/handlebars/issues"
+  },
+  "homepage": "https://github.com/18WDWU02/handlebars#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
